@@ -1,0 +1,4 @@
+checkpoints/*
+!checkpoints/*Final*
+.ipynb_checkpoints
+Reacher_Windows_x86_64*
